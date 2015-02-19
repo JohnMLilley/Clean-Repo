@@ -1,4 +1,4 @@
-Column Name				Data Type	Description
+Column Name  				Data Type	Description
 			
 subject					Numeric		Subject Number	
 activity				Character FactorActivity description	
