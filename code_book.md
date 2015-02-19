@@ -1,5 +1,5 @@
 Column Name  				Data Type	Description
-			
+CLICK ON RAW TO SEE THIS FORMATTED			
 subject					Numeric		Subject Number	
 activity				Character FactorActivity description	
 tbodyaccmeanx				Numeric		Time domain accelerometer mean x	Note: This and subsequent columns are a mean value of the data for the subject and activity
