@@ -14,11 +14,11 @@ or read it back into R using read.table() and the look at it using View().
 
 
 The Script for the Program Assignment is called run_analysis.R
-# This script needs to be run from the 'UCI HAR Dataset' folder.
-# Set your working directory to the 'UCI HAR Dataset' folder.
-# The UCI HAR folder will have been created when the source .zip file was unzipped
-# The .zip file:  
-# https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+ This script needs to be run from the 'UCI HAR Dataset' folder.
+ Set your working directory to the 'UCI HAR Dataset' folder.
+ The UCI HAR folder will have been created when the source .zip file was unzipped
+ The .zip file:  
+ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 The script performs the following:
  1) Merges the training and the test sets to create one data set.
  2) Extracts only the measurements on the mean and standard deviation for each measurement. 
