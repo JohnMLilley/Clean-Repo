@@ -27,6 +27,5 @@ The script performs the following:
  5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-The codebook list all the columns in the tidy dataset. All the value columns are means of the original data for the Subject and Activity 
-on each row.
+The codebook lists all the columns in the tidy dataset. All the value columns are means of the original data for the Subject and Activity on each row.
 
